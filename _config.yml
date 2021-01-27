@@ -1,0 +1,13 @@
+title: Action Square
+description: A project with focus in developing software for the purpose of activism and advocacy.
+url: https://action-square.github.io
+remote_theme: oAGoulart/lesta
+#theme: lesta
+
+exclude: [
+  Gemfile.lock,
+  lesta.gemspec,
+  README.md,
+  CHANGELOG.md,
+  Gemfile, vendor, scripts
+]
