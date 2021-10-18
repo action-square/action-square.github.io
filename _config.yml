@@ -3,6 +3,8 @@ description: A project with focus in developing software for the purpose of acti
 url: https://action-square.github.io
 remote_theme: oAGoulart/lesta
 #theme: lesta
+plugins:
+  - jekyll-seo-tag
 
 exclude: [
   Gemfile.lock,
