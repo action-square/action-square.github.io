@@ -1,4 +1,4 @@
-# Action Square
+![Action Square](actionsquare.png)
 
 Repository for the Action Square page. Using [lesta](https://github.com/oAGoulart/lesta) theme.
 
